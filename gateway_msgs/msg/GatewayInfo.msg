@@ -18,7 +18,7 @@ Rule[] public_interface
 
 ###### Flipped Interface ######
 
-RemoteRuleWithStatus[] flipped_connections
+RemoteRule[] flipped_connections
 RemoteRule[] flip_watchlist
 RemoteRule[] flipped_in_connections
 

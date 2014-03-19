@@ -20,3 +20,11 @@ string gateway
 # but in some cases it helps refine the rule. It helps refine the rule.
 #
 Rule rule
+
+# Optional status
+# Whether the flip is still pending, was accepted 
+string UNKNOWN=unknown
+string PENDING=pending
+string ACCEPTED=accepted
+string BLOCKED=blocked
+string status
